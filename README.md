@@ -39,7 +39,9 @@ ros2 run turtlesim turtlesim_node
 ``` r
 ros2 run turtle_house draw_house
 ```
+![](img/draw.png)
 
+![](img/draw2.png)
 ## Graph
 
 A TurtleSim és a Draw House Node kapcsolatának vizualizálása Mermaid diagrammal:
